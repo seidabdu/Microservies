@@ -1,0 +1,5 @@
+com\journaldev\spring\config\PersonClientImpl.class
+com\journaldev\spring\config\PersonClient.class
+com\journaldev\spring\model\Person.class
+com\journaldev\spring\Main.class
+com\journaldev\spring\config\AppConfig.class
