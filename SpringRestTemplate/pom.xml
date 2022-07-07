@@ -8,7 +8,7 @@
 	<version>1.0-SNAPSHOT</version>
 	<properties>
 		<spring.framework>4.3.0.RELEASE</spring.framework>
-		<spring.web>3.0.2.RELEASE</spring.web>
+		<spring.web>3.2.5.RELEASE</spring.web>
 		<serializer.version>2.8.1</serializer.version>
 	</properties>
 	<dependencies>
